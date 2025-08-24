@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 AI Study Planner Project Structure.md
+**/.DS_Store
